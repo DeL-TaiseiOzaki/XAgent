@@ -24,7 +24,6 @@ api_keys:
       organization: org-xxxxxx
       model: gpt-4-32k
 
-
 default_request_type: openai # or xagent
 default_completion_kwargs:
   model: gpt-4-32k
